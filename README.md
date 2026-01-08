@@ -1,4 +1,4 @@
-🌶️ B2B Spices Trading Platform
+#🌶️ B2B Spices Trading Platform
 📌 Project Overview
 This project is a B2B (Business-to-Business) Spices Trading Website designed to digitally connect spice manufacturers, exporters, wholesalers, and bulk buyers on a single platform.
 The website provides a smooth and secure way for businesses to showcase spice products, manage inquiries, and handle bulk trade communication efficiently.
