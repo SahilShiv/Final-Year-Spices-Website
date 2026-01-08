@@ -34,9 +34,9 @@ Ensure secure data handling using backend technologies
 
 Frontend
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 JavaScript
 
